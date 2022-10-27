@@ -10,7 +10,9 @@
          - A declaration of the winner with a summary of their votes
 
 ## Resources 
-- Data Source: election_results.csv 
+- Data Source: election_results.csv
+    - https://github.com/djaiello/Module3Challenge/blob/main/Resources/election_results.csv
+ 
 - Software: Python 3.7.6, Visual Studio Code, 1.72.2
 
 ## Election Audit Results
@@ -38,13 +40,11 @@
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 
-- Reference Link to Election Results Input File
-   - https://github.com/djaiello/Module3Challenge/blob/main/Resources/election_results.csv
 
 - Reference Link to the Audit Results Output File:
    - https://github.com/djaiello/Module3Challenge/blob/main/analysis/election_results.txt
 
-- Reference Link to Script:
+- Reference Link to Python Script:
    - https://github.com/djaiello/Module3Challenge/blob/main/PyPoll_Challenge.py
 
 
