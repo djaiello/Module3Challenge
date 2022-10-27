@@ -40,7 +40,7 @@
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ### Resultant Screen Output
-
+https://github.com/djaiello/Module3Challenge/blob/main/Audit_Results_Screen_Output.png
 
 - Reference Link to the Audit Results Output File:
    - https://github.com/djaiello/Module3Challenge/blob/main/analysis/election_results.txt
