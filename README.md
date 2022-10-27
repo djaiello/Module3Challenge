@@ -41,7 +41,7 @@
 
 ### Resultant Screen Output
     - https://github.com/djaiello/Module3Challenge/blob/main/Audit_Results_Screen_Output.png
-![image](https://user-images.githubusercontent.com/114360511/198189465-15077587-975d-48ea-8e0c-a0d02be29c24.png)
+![image](https://user-images.githubusercontent.com/114360511/198190602-99698174-5915-4a70-963d-e2657cfdd962.png)
 
 
 - Reference Link to the Audit Results Output File:
