@@ -39,13 +39,13 @@
 
 
 - Reference Link to Election Results Input File
-    -https://github.com/djaiello/Module3Challenge/blob/main/Resources/election_results.csv
+   - https://github.com/djaiello/Module3Challenge/blob/main/Resources/election_results.csv
 
 - Reference Link to the Audit Results Output File:
-    -https://github.com/djaiello/Module3Challenge/blob/main/analysis/election_results.txt
+   - https://github.com/djaiello/Module3Challenge/blob/main/analysis/election_results.txt
 
 - Reference Link to Script:
-    -https://github.com/djaiello/Module3Challenge/blob/main/PyPoll_Challenge.py
+   - https://github.com/djaiello/Module3Challenge/blob/main/PyPoll_Challenge.py
 
 
 ## Election Audit Summary
