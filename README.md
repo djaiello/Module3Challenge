@@ -39,6 +39,7 @@
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
+### Resultant Screen Output
 
 
 - Reference Link to the Audit Results Output File:
