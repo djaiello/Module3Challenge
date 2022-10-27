@@ -42,11 +42,11 @@
     -https://github.com/djaiello/Module3Challenge/blob/main/Resources/election_results.csv
 
 - Reference Link to the Audit Results Output File:
-
+    -https://github.com/djaiello/Module3Challenge/blob/main/analysis/election_results.txt
 
 
 - Reference Link to Script:
-
+    -
 
 
 ## Election Audit Summary
